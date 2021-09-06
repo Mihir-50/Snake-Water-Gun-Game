@@ -44,8 +44,8 @@ print("Game Over\n")
 print("Final Score of Mihir",str(Mihir))
 print("Final Score of PC",str(PC))
 if Mihir>PC:
-    print("Mihir Won & PC loose")
+    print("Mihir Won and PC loose")
 elif Mihir==PC:
     print("Tie")
 else:
-    print("PC Won & Mihir loose")
+    print("PC Won and Mihir loose")
